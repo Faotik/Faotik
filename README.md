@@ -2,7 +2,7 @@
 
 **I am a Computing Science student (graduating 2027) · Software developer**
 
-I build full-stack apps, write low-level code in Rust and C++, and design hardware in KiCad. Regional hackathon winner. I'm looking for a full-time role from **September 2027**, and I'm open to internships before that.
+I build full-stack apps, write low-level code in Rust and C++, and design hardware in KiCad. Regional hackathon winner. I'm looking for a full-time role from **Summer 2027**.
 
 ## 🛠 What I work with
 
